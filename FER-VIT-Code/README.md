@@ -72,8 +72,8 @@ data/FER-2013/
    ```bash
    git clone https://github.com/sam-0-02/FER-VIT-Code.git
    cd FER-VIT-Code
- ```
-```
+   
+
 2. Create and activate a virtual environment:
 ```
 python -m venv env
