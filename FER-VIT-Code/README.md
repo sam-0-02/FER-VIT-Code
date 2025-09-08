@@ -73,7 +73,7 @@ data/FER-2013/
    git clone https://github.com/sam-0-02/FER-VIT-Code.git
    cd FER-VIT-Code
  ```
-
+```
 2. Create and activate a virtual environment:
 ```
 python -m venv env
@@ -161,7 +161,7 @@ If you use this repository in your work, please cite:
 "Quality-aware facial emotion recognition using Vision Transformers with GFPGAN-based image restoration."
 PeerJ Computer Science, 2025 (under review).```
 
-
+```
 
 ## 🙏 Acknowledgements
 
